@@ -158,7 +158,7 @@ const mensagem = nome => "Seja bem-vindo, ${nome}
 console.log(mesagem("Carlos"));
 ```
 
-[Referências: clique aqui](https://matheuscastiglioni.com.br/definindo-funcoes-em-javascript/)
+[Referências: clique aqui](https://blog.matheuscastiglioni.com.br/definindo-funcoes-em-javascript/)
 
 
 
